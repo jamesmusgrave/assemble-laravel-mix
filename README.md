@@ -1,8 +1,12 @@
 Serve, Watch and Browser Sync
+```sh
 npm run watch
+```
 
 Build
+```sh
 npm run build
+```
 
 Assemble Reference
 https://github.com/assemble/assemble
